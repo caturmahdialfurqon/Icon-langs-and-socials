@@ -1,2 +1,2 @@
-src/Langs/
-src/Social/
+src/Langs/*.a
+src/Social/*.a
